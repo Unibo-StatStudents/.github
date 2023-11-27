@@ -1,9 +1,9 @@
-# Course-Materials
+# Unibo StatStudents platform
 
 *Gather relavant material for courses that are part of the master`s degree program "Statistical Sciences" at the University of Bologna*
 
 ## Main Purposes
-This repository serves two **main purposes:** 
+This platform serves two **main purposes:** 
 
 ### 1. Share 
 Provide concise summaries of the lecture slides, old exam questions or helpful websites. The community will be grateful and improve together with you! 
