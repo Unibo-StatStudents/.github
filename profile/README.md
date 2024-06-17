@@ -2,11 +2,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmYTVrMHNsb3YyYXBoaG0xNXZzamZtb3B4OXB5M2ZlMTRpMnN0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ADoZQgs0tyww/giphy.gif" width="500"/>
 </div>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/alberto-trashaj-31b26213a/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 <img src="https://komarev.com/ghpvc/?username=Unibo-StatStudents&style=flat-square&color=blue" alt=""/>
 
