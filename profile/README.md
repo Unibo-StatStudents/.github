@@ -52,7 +52,7 @@
 - Push your changes to your fork.
 - Open a pull request from your fork's branch to the main repository.
 
-For more details, please read our [Contributing Guidelines](CONTRIBUTING.md).
+For more details, please read our [Contributing Guidelines]([CONTRIBUTING.md](https://github.com/Unibo-StatStudents/course-repo-template/blob/main/CONTRIBUTING.md)).
 
 ---
 
