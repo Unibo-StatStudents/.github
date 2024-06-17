@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/obama-awesome-statistics-9ADoZQgs0tyww" width="100"/>
+  <img src="[https://giphy.com/gifs/obama-awesome-statistics-9ADoZQgs0tyww](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjdmYTVrMHNsb3YyYXBoaG0xNXZzamZtb3B4OXB5M2ZlMTRpMnN0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ADoZQgs0tyww/giphy.gif)" width="100"/>
 </div>
 
 <div id="badges" align="center">
